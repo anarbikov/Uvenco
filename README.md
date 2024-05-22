@@ -1,2 +1,2 @@
-# Uvenco-
+# Uvenco
 made with Jetpack Compose
