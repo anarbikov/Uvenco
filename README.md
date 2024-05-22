@@ -1,5 +1,4 @@
 # Uvenco  
-made with Jetpack Compose  
 App contains 2 screens with different logics  
 Please check screenshots and video overview below  
 **Used technologies:**  
