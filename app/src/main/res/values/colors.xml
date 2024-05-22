@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#4CAF50</color>
+    <color name="grey">#494A49</color>
+    <color name="bronze_uvenco">#5A4036</color>
+    <color name="line_uvenco">#261A18</color>
+    <color name="coffee_background_uvenco">#231917</color>
+    <color name="frame_gradient_1">#19110E</color>
+    <color name="frame_gradient_2">#100909</color>
+    <color name="text_color_drink">#C4A79B</color>
+    <color name="drink_weight_text">#514541</color>
+    <color name="drink_price_text">#F77416</color>
+    <color name="bottom_frame_grad_1">#1D1412</color>
+    <color name="bottom_frame_grad_2">#160E0C</color>
+    <color name="bottom_frame_grad_3">#231917</color>
+    <color name="detail_screen_name">#C4A79B</color>
+    <color name="detail_box_text_color">#FFF2ED</color>
+    <color name="detail_box_color">#150E0C</color>
+    <color name="text_color_sell_for_free">#896C61</color>
+    <color name="orange">#F77416</color>
+</resources>

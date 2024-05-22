@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Uvenco</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="runero_touch_logo">RUNERO Touch</string>
+    <string name="ru_country">RU</string>
+    <string name="capucino_econom">Капучино эконом</string>
+    <string name="detail_name">Наименование</string>
+    <string name="Price">Цена</string>
+    <string name="sell_for_free">Продавать бесплатно</string>
+    <string name="Save">Сохранить</string>
+
+</resources>
